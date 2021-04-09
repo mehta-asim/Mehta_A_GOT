@@ -98,7 +98,38 @@ main {
 
 /* add styles here for lightbox and video */
 
+.lightbox
+{
+	display: none;
+	position: absolute;
+	left: 0;
+	top: 0;
 
+	width: 100%;
+	height: 100%;
+
+	align-items: center;
+	background-color: rgba(0, 0, 0, 0.7);
+}
+
+.lightbox .close
+{
+	float: right;
+	padding-right: 10px;
+	padding-top: 10px;
+	font-size: 30px;
+	color: white;
+}
+
+.show-lightbox
+{
+	display: block;
+}
+
+.lightbox:target
+{
+	display: block;
+}
 
 video {
 	width: 80%;
