@@ -41,7 +41,8 @@
   </ol>
 </details>
 <!-- About the project -->
-### About The Project
+
+## About The Project
 
 This project is about showcasing the different houses of Game Of Thrones like their sigil, house information and house video
 
