@@ -1,10 +1,6 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/mehta-asim/Mehta_A_GOT/">
-    <img src="images/logo-label-final.svg" alt="Logo" width="500" height="500">
-  </a>
-
   <h3 align="center">GOT Build</h3>
 
   <p align="center">
