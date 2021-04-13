@@ -42,7 +42,7 @@
 </details>
 ## About The Project
 
-This project is about showcasing the mixture of 2 brands Erdinger Weisbier's Design and Windsor Safe-T-Salt's Content.
+This project is about showcasing the different houses of Game Of Thrones like their sigil, house information and house video
 
 ### Built With
 
